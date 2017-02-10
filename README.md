@@ -5,7 +5,7 @@
 ## Specimen
 
 ```
-![specimen](https://raw.githubusercontent.com/antonmoglia/Garcia/master/documentation/images/specimen.jpg)
+![speciemen](/../garcia/documentation/images/specimen.jpg?raw=true "Garcia")
 ```
 
 ## License
