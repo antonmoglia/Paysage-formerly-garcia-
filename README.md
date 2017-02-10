@@ -5,7 +5,8 @@
 ## Specimen
 
 ```
-![speciemen](/../garcia/documentation/images/specimen.jpg?raw=true "Garcia")
+![speciemen](/../garcia/documentation/images/1.png?raw=true "Garcia")
+![speciemen](/../garcia/documentation/images/2.png?raw=true "Garcia")
 ```
 
 ## License
