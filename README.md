@@ -5,8 +5,7 @@
 ## Specimen
 
 ```
-![specimen]
-(https://github.com/antonmoglia/Garcia/blob/master/documentation/images/specimen.jpg)
+![specimen](https://raw.githubusercontent.com/antonmoglia/Garcia/master/documentation/images/specimen.jpg)
 ```
 
 ## License
