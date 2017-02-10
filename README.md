@@ -6,6 +6,8 @@
 
 ![specimen](/documentation/images/2.png?raw=true "Garcia")
 
+![specimen](/documentation/images/1.png?raw=true "Garcia")
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. 
