@@ -4,7 +4,10 @@
 
 ## Specimen
 
-
+```
+![specimen]
+(https://github.com/antonmoglia/Garcia/blob/master/documentation/images/specimen.jpg)
+```
 
 ## License
 
