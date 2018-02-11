@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="1">
+  <advance width="221"/>
+  <unicode hex="0300"/>
+  <outline>
+    <contour>
+      <point x="191" y="509" type="line"/>
+      <point x="144" y="509" type="line"/>
+      <point x="30" y="652" type="line"/>
+      <point x="133" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="652" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="153" y="460" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-09 09:49:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

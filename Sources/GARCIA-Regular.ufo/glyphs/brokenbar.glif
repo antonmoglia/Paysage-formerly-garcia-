@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="455"/>
+  <unicode hex="00A6"/>
+  <note>
+    brokenbar
+  </note>
+  <outline>
+    <contour>
+      <point x="190" y="282" type="line"/>
+      <point x="190" y="673" type="line"/>
+      <point x="265" y="673" type="line"/>
+      <point x="265" y="282" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="-237" type="line"/>
+      <point x="190" y="154" type="line"/>
+      <point x="265" y="154" type="line"/>
+      <point x="265" y="-237" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-09 09:49:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

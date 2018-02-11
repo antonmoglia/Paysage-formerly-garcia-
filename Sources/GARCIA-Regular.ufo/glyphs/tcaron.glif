@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="427"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="274" y="729" type="line"/>
+      <point x="266" y="549" type="line"/>
+      <point x="311" y="549" type="line"/>
+      <point x="358" y="729" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-09 09:49:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

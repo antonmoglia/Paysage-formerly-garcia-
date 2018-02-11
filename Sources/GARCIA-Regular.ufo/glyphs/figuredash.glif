@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="figuredash" format="1">
+  <advance width="610"/>
+  <unicode hex="2012"/>
+  <note>
+    figuredash
+  </note>
+  <outline>
+    <contour>
+      <point x="0" y="217" type="line"/>
+      <point x="609" y="217" type="line"/>
+      <point x="609" y="257" type="line"/>
+      <point x="0" y="257" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-09 09:49:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

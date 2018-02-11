@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="1">
+  <advance width="416"/>
+  <unicode hex="003C"/>
+  <note>
+    less
+  </note>
+  <outline>
+    <contour>
+      <point x="232" y="227" type="line"/>
+      <point x="205" y="244" type="line"/>
+      <point x="233" y="262" type="line"/>
+      <point x="341" y="387" type="line"/>
+      <point x="286" y="429" type="line"/>
+      <point x="135" y="258" type="line"/>
+      <point x="122" y="243" type="line"/>
+      <point x="289" y="61" type="line"/>
+      <point x="340" y="106" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-09 09:49:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

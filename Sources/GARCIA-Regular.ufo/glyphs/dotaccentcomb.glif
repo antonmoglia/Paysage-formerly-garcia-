@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="1">
+  <advance width="327"/>
+  <unicode hex="0307"/>
+  <outline>
+    <contour>
+      <point x="125" y="562" type="line"/>
+      <point x="202" y="562" type="line"/>
+      <point x="202" y="639" type="line"/>
+      <point x="125" y="639" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="639" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="164" y="460" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-09 09:49:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="500"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="361" y="597"/>
+      <point x="340" y="593"/>
+      <point x="313" y="593" type="curve"/>
+      <point x="277" y="593"/>
+      <point x="243" y="623"/>
+      <point x="193" y="623" type="curve"/>
+      <point x="160" y="623"/>
+      <point x="140" y="614"/>
+      <point x="118" y="588" type="curve"/>
+      <point x="118" y="535" type="line"/>
+      <point x="138" y="548"/>
+      <point x="160" y="558"/>
+      <point x="185" y="558" type="curve"/>
+      <point x="230" y="558"/>
+      <point x="269" y="526"/>
+      <point x="311" y="526" type="curve"/>
+      <point x="336" y="526"/>
+      <point x="363" y="535"/>
+      <point x="382" y="555" type="curve"/>
+      <point x="382" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="647" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="243" y="460" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-09 09:49:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>
