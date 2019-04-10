@@ -1,6 +1,6 @@
-# Garcia Regular
+# Garcia Libre Regular
 
-*Garcia is a sans-serif font by Anton Moglia (http://www.moglia.fr/).*
+*Garcia Libre is a sans-serif font by Anton Moglia (http://www.moglia.fr/).*
 
 ## Specimen
 
